@@ -1,2 +1,3 @@
 name: Ankit Gaurav
 markdown: kramdown
+permalink: /blog/:title

@@ -1,13 +1,17 @@
-body{
-	background-color: #fcfafc;
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  background-color: #fcfafc;
+  text-align: center;
 }
-
-.main-content{
-	text-align: center;
-	display: -webkit-flex;
-    display: flex;
+main {
+  flex: 1;
 }
-h1{
-	font-family: 'Roboto Slab', serif;
-	align-items: center;
+header, footer {
+	padding: 10px;
+}
+.heading{
+	position: relative;
+	top:100px;
 }

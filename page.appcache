@@ -1,0 +1,11 @@
+CACHE MANIFEST
+# 2016-07-19 v1.0.0
+/css/main.css
+/index.html
+/css/normalize.css
+
+NETWORK:
+*
+
+FALLBACK:
+/html/ /offline.html

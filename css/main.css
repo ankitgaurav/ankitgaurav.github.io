@@ -55,6 +55,7 @@ body {
         width: 250px;
     }
     .body>a{
-	margin-right: 10x;
+	margin-right: 20x;
+	text-decoration: none;
 }
 }

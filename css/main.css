@@ -54,4 +54,7 @@ body {
     .main {
         width: 250px;
     }
+    .body>a{
+	margin-right: 10x;
+}
 }
